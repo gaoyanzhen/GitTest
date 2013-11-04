@@ -9,6 +9,7 @@ public class BranchTest {
 	public static void main(String[] args) {
 		System.out.println("BranchTest!");
 		System.out.println("123");
+		System.out.println("456");
 	}
 
 }
