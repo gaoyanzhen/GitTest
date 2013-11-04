@@ -14,6 +14,7 @@ public class BranchTest {
 		System.out.print("test check out 0!");
 		
 		System.out.print("0!");
+		System.out.print("123!");
 
 	}
 
