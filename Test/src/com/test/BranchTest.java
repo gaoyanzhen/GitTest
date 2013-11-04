@@ -10,6 +10,7 @@ public class BranchTest {
 		System.out.println("BranchTest!");
 		System.out.print("test check out!");
 		System.out.print("test check out 456!");
+		System.out.print("test check out 789!");
 
 	}
 
